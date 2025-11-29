@@ -15,7 +15,7 @@ class CalculadoraTest {
     @Test
     void pruebaRestar() {
 
-        assertEquals(2,calculadora.restar(5,2));
+        assertEquals(3,calculadora.restar(5,2));
     }
 
     @Test
